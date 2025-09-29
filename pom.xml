@@ -8,7 +8,7 @@
   </parent>
   <groupId>io.quarkiverse.zeebe</groupId>
   <artifactId>quarkus-zeebe-parent</artifactId>
-  <name>Quarkus - Zeebe - Parent</name>
+  <name>Quarkus - Zdeebe - Parent</name>
   <version>999-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
